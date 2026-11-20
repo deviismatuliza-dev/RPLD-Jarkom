@@ -1,0 +1,2 @@
+Scan PDF hasil tulisan tangan. Dikirimkan di GitHub sesuai dengan folder tugas masing-masing
+Untuk penamaan File 3 digit nim terakhir_nama lengkap contoh : 004_Devi Ismatul Izzah
