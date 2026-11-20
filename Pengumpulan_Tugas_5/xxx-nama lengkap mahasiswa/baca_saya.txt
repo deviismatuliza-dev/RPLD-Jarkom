@@ -1,0 +1,2 @@
+Kumpulkan file cisco packet tracer. Dikirimkan di GitHub sesuai dengan folder tugas masing-masing
+Untuk penamaan File 3 digit nim terakhir_nama lengkap contoh : 004_Devi Ismatul Izzah
